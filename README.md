@@ -39,25 +39,32 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | Smooth Bedrock (<=1.16.1) | https://www.curseforge.com/minecraft/mc-mods/blayykes-smooth-bedrock |
 
 ## MC v1.16.x
+#### Bugfixes
+| Name | Link |
+| --- | :---: |
+| Carpet | [Click Me](https://www.curseforge.com/minecraft/mc-mods/carpet/files/all?filter-game-version=1738749986%3a70886) |
+| Carpet Extra | [Click Me](https://www.curseforge.com/minecraft/mc-mods/carpet-extra/files/all?filter-game-version=1738749986%3a70886) |
+| Carpet TIS Addition | [Click Me](https://www.curseforge.com/minecraft/mc-mods/carpet-tis-addition/files/all?filter-game-version=1738749986%3a70886) |
+
 #### Performance
 | Name | Link |
 | --- | :---: |
-| Alternate Current (changes behaviour) | https://modrinth.com/mod/alternate-current |
-| Carpet | https://www.curseforge.com/minecraft/mc-mods/carpet |
+| Alternate Current (changes behaviour) | [Click Me](https://modrinth.com/mod/alternate-current) |
+| Carpet | [Click Me](https://www.curseforge.com/minecraft/mc-mods/carpet/files/all?filter-game-version=1738749986%3a70886) |
 | Custom Item Range Combination | https://modrinth.com/mod/custom-item-range-combination |
 | DimensionalThreading (experimental) | https://github.com/WearBlackAllDay/DimensionalThreading |
-| Fast Furnace For Fabric | https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric |
-| FerriteCore | https://modrinth.com/mod/ferrite-core |
-| Hydrogen (experimental) | https://modrinth.com/mod/hydrogen |
-| hopperOptimization ([requires lithium fork](https://github.com/2No2Name/lithium-fabric/releases/)) | https://github.com/2No2Name/hopperOptimizations |
-| Krypton | https://modrinth.com/mod/krypton |
-| LazyDFU | https://modrinth.com/mod/lazydfu |
-| Lithium | https://modrinth.com/mod/lithium |
-| Overworld Two | https://www.curseforge.com/minecraft/mc-mods/overworld-two |
-| Phosphor | https://modrinth.com/mod/phosphor |
-| RandomPatches | https://modrinth.com/mod/randompatches |
-| RecipeCache | https://www.curseforge.com/minecraft/mc-mods/recipe-cache |
-| Starlight (experimental) | https://github.com/PaperMC/Starlight/releases |
-| Tic-TACS (experimental) | https://github.com/Gegy/tic-tacs/releases |
-| TickTools | https://modrinth.com/mod/ticktools |
-| World Specific View Distance | https://modrinth.com/mod/worldspecificviewdistance |
+| Fast Furnace For Fabric | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric/files/all?filter-game-version=1738749986%3a70886) |
+| FerriteCore | [Click Me](https://modrinth.com/mod/ferrite-core) |
+| Hydrogen (experimental) | [Click Me](https://modrinth.com/mod/hydrogen) |
+| hopperOptimization ([requires lithium fork](https://github.com/2No2Name/lithium-fabric/releases/)) | [Click Me](https://github.com/2No2Name/hopperOptimizations) |
+| Krypton | [Click Me](https://modrinth.com/mod/krypton) |
+| LazyDFU | [Click Me](https://modrinth.com/mod/lazydfu) |
+| Lithium | [Click Me](https://modrinth.com/mod/lithium) |
+| Overworld Two | [Click Me](https://www.curseforge.com/minecraft/mc-mods/overworld-two/files/all?filter-game-version=1738749986%3a70886) |
+| Phosphor | [Click Me](https://modrinth.com/mod/phosphor) |
+| RandomPatches | [Click Me](https://modrinth.com/mod/randompatches) |
+| RecipeCache | [Click Me](https://www.curseforge.com/minecraft/mc-mods/recipe-cache) |
+| Starlight (experimental) | [Click Me](https://github.com/PaperMC/Starlight/releases) |
+| Tic-TACS (experimental) | [Click Me](https://github.com/Gegy/tic-tacs/releases) |
+| TickTools | [Click Me](https://modrinth.com/mod/ticktools) |
+| World Specific View Distance | [Click Me](https://modrinth.com/mod/worldspecificviewdistance) |
