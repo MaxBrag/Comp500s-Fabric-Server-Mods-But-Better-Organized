@@ -1,4 +1,4 @@
-# Comp500s-Fabric-Server-Mods-But-Better-Organized
+# Comp500s-Fabric-Server-Mods-But-Better-Organized (Work in progress)
 It's essentially listing the mods from https://github.com/comp500/fabric-serverside-mods in an organized matter of Categories and Minecraft versions.
 
 ## Building
@@ -127,14 +127,24 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | Name | Link |
 | --- | :---: |
 | BineClaims | [Click Me](https://modrinth.com/mod/bineclaims/versions) |
+| Flan | [Click Me](https://www.curseforge.com/minecraft/mc-mods/flan/files/all?filter-game-version=1738749986%3a70886) |
 | Sewing Machine Utilities | [Click Me](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities/files/all?filter-game-version=1738749986%3a68722) |
 | Hey That's Mine | [Click Me](https://modrinth.com/mod/htm/versions) |
+| Leukocyte | [Click Me](https://github.com/NucleoidMC/leukocyte/releases) |
 
 
 #### MC v1.17
 | Name | Link |
 | --- | :---: |
 | Factions | [Click Me](https://modrinth.com/mod/factions/versions) |
+| Flan | [Click Me](https://www.curseforge.com/minecraft/mc-mods/flan/files/all?filter-game-version=1738749986%3A73242) |
+| Leukocyte | [Click Me](https://github.com/NucleoidMC/leukocyte/releases) |
+
+## Commands/Chat
+#### MC v1.14 (outdated)
+| Name | Link |
+| --- | :---: |
+| Simple
 
 ## Commands/Chat
 | Name | Link |
