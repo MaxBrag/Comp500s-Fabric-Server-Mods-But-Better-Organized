@@ -39,6 +39,10 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | Smooth Bedrock (<=1.16.1) | https://www.curseforge.com/minecraft/mc-mods/blayykes-smooth-bedrock |
 
 ## MC v1.16.x
+#### Performance
 | Name | Link |
 | --- | :---: |
-| Alternate Current (changes behaviour) | https://modrinth.com/mod/alternate-current | Performance |
+| Alternate Current (changes behaviour) | https://modrinth.com/mod/alternate-current |
+| Carpet | https://www.curseforge.com/minecraft/mc-mods/carpet |
+| Custom Item Range Combination | https://modrinth.com/mod/custom-item-range-combination |
+
