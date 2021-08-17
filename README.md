@@ -45,12 +45,24 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | DatChat | [Click Me](https://www.curseforge.com/minecraft/mc-mods/datchat/files/all?filter-game-version=1738749986%3a64806) |
 | Discord Fabric Whitelister | [Click Me](https://www.curseforge.com/minecraft/mc-mods/discord-fabric-whitelister/files/all?filter-game-version=1738749986%3a64806) |
 
+#### MC v1.15 (outdated)
+| Name | Link |
+| --- | :---: |
+| Discord Fabric Whitelister | [Click Me](https://www.curseforge.com/minecraft/mc-mods/discord-fabric-whitelister/files/all?filter-game-version=1738749986%3a68722) |
+| Fabric-Discord Link | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fabric-discord-link/files/all?filter-game-version=1738749986%3a68722) |
+
 #### MC v1.16
 | Name | Link |
 | --- | :---: |
 | BlockBot | [Click Me](https://modrinth.com/mod/blockbot/versions) |
 | DisFabric | [Click Me](https://www.curseforge.com/minecraft/mc-mods/disfabric/files/all?filter-game-version=1738749986%3a70886) |
 | Discord-Fabric Link | [Click Me](https://github.com/namebee/discordfabriclink/releases) |
+| Discord Fabric Whitelister | [Click Me](https://www.curseforge.com/minecraft/mc-mods/discord-fabric-whitelister/files/all?filter-game-version=1738749986%3a70886) |
+| DiscordMinecraftFabric | [Click Me](https://modrinth.com/mod/dmf/versions) |
+| Fabric-Discord Link | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fabric-discord-link/files/all?filter-game-version=1738749986%3a70886) |
+| Interweave | [Click Me](https://www.curseforge.com/minecraft/mc-mods/interweave/files/all?filter-game-version=1738749986%3a70886) |
+| ModFest Utilities | [Click Me](https://github.com/ModFest/modfest-utilities/releases) |
+| Toms Server Utilities | [Click Me](https://modrinth.com/mod/toms-server-utils/versions)
 
 
 #### MC v1.17
@@ -58,8 +70,15 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | --- | :---: |
 | BlockBot | [Click Me](https://modrinth.com/mod/blockbot/versions) |
 | DisFabric | [Click Me](https://www.curseforge.com/minecraft/mc-mods/disfabric/files/all?filter-game-version=1738749986%3a73242) |
+| Fabric-Discord Link | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fabric-discord-link/files/all?filter-game-version=1738749986%3a70886) |
+| ModFest Utilities | [Click Me](https://github.com/ModFest/modfest-utilities/releases) |
 
-------------
+### Matterbridge
+#### MC v1.14? (outdated)
+| Name | Link |
+| --- | :---: |
+| MatterLink | [Link Me](https://www.curseforge.com/minecraft/mc-mods/matterlink/files/all?filter-game-version=2020709689%3A7499) |
+
 
 #### Commands/Chat
 | Name | Link |
