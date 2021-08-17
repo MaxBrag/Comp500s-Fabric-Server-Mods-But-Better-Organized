@@ -10,8 +10,8 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 #### Commands/Chat
 | Name | Link |
 | --- | :---: |
-| Simplechat | https://www.curseforge.com/minecraft/mc-mods/simplechat |
 | Pride | https://www.curseforge.com/minecraft/mc-mods/pride |
+| Simplechat | https://www.curseforge.com/minecraft/mc-mods/simplechat |
 
 #### Flight
 | Name | Link |
@@ -36,7 +36,7 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 #### World Generation
 | Name | Link |
 | --- | :---: |
-| Smooth Bedrock (<=1.16.1) | https://www.curseforge.com/minecraft/mc-mods/blayykes-smooth-bedrock | Worldgen |
+| Smooth Bedrock (<=1.16.1) | https://www.curseforge.com/minecraft/mc-mods/blayykes-smooth-bedrock |
 
 ## MC v1.16
 | Name | Link |
