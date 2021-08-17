@@ -40,5 +40,5 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 
 ## MC v1.16
 | Name | Link |
-| --- | :---: | :---: |
+| --- | :---: |
 | Alternate Current (changes behaviour) | https://modrinth.com/mod/alternate-current | Performance |
