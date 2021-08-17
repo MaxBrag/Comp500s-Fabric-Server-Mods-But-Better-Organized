@@ -2,7 +2,7 @@
 It's essentially listing the mods from https://github.com/comp500/fabric-serverside-mods in an organized matter of Minecraft versions.
 
 ## MC v1.15 (outdated)
-### Chat Linking: Discord
+#### Chat Linking: Discord
 | Name | Link | Type |
 | --- | :---: | :---: |
 | DatChat | https://www.curseforge.com/minecraft/mc-mods/datchat | Chat Linking: Discord |
