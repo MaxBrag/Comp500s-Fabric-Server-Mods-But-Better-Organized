@@ -3,19 +3,42 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 
 ## MC v1.15 (outdated)
 #### Chat Linking: Discord
-| Name | Link | Type |
-| --- | :---: | :---: |
-| DatChat | https://www.curseforge.com/minecraft/mc-mods/datchat | Chat Linking: Discord |
+| Name | Link |
+| --- | :---: |
+| DatChat | https://www.curseforge.com/minecraft/mc-mods/datchat |
 
-| BeaconFlight | https://www.curseforge.com/minecraft/mc-mods/beaconflight | Flight |
-| MaskOfLoki's Fabric Tweaks | https://www.curseforge.com/minecraft/mc-mods/maskoflokis-fabric-tweaks | Game Mechanic Tweak |
-| VanillaEndervators | https://www.curseforge.com/minecraft/mc-mods/vanillaendervators | New Game Mechanic |
-| Simplechat | https://www.curseforge.com/minecraft/mc-mods/simplechat | Commands/Chat |
-| Pride | https://www.curseforge.com/minecraft/mc-mods/pride | Commands/Chat |
-| PathWatcher | https://www.curseforge.com/minecraft/mc-mods/pathwatcher | Server Management |
+#### Commands/Chat
+| Name | Link |
+| --- | :---: |
+| Simplechat | https://www.curseforge.com/minecraft/mc-mods/simplechat |
+| Pride | https://www.curseforge.com/minecraft/mc-mods/pride |
+
+#### Flight
+| Name | Link |
+| --- | :---: |
+| BeaconFlight | https://www.curseforge.com/minecraft/mc-mods/beaconflight |
+
+#### Game Mechanic Tweak
+| Name | Link |
+| --- | :---: |
+| MaskOfLoki's Fabric Tweaks | https://www.curseforge.com/minecraft/mc-mods/maskoflokis-fabric-tweaks |
+
+#### New Game Mechanic
+| Name | Link |
+| --- | :---: |
+| VanillaEndervators | https://www.curseforge.com/minecraft/mc-mods/vanillaendervators |
+
+#### Server Management
+| Name | Link |
+| --- | :---: |
+| PathWatcher | https://www.curseforge.com/minecraft/mc-mods/pathwatcher |
+
+#### World Generation
+| Name | Link |
+| --- | :---: |
 | Smooth Bedrock (<=1.16.1) | https://www.curseforge.com/minecraft/mc-mods/blayykes-smooth-bedrock | Worldgen |
 
 ## MC v1.16
-| Name | Link | Type |
+| Name | Link |
 | --- | :---: | :---: |
 | Alternate Current (changes behaviour) | https://modrinth.com/mod/alternate-current | Performance |
