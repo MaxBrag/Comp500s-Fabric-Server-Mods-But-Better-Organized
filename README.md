@@ -1,6 +1,31 @@
 # Comp500s-Fabric-Server-Mods-But-Better-Organized
 It's essentially listing the mods from https://github.com/comp500/fabric-serverside-mods in an organized matter of Categories and Minecraft versions.
 
+## Building
+#### MC v1.14 (outdated)
+| Name | Link |
+| --- | :---: |
+| WorldEdit | [Click Me](https://www.curseforge.com/minecraft/mc-mods/worldedit/files/all?filter-game-version=1738749986%3A64806) |
+
+
+#### MC v1.15 (outdated)
+| Name | Link |
+| --- | :---: |
+| WorldEdit | [Click Me](https://www.curseforge.com/minecraft/mc-mods/worldedit/files/all?filter-game-version=1738749986%3a68722) |
+
+
+#### MC v1.16
+| Name | Link |
+| --- | :---: |
+| WorldEdit | [Click Me](https://www.curseforge.com/minecraft/mc-mods/worldedit/files/all?filter-game-version=1738749986%3a70886) |
+| ShapesEdit | [Click Me](https://www.curseforge.com/minecraft/mc-mods/shapes-edit/files/all?filter-game-version=1738749986%3a70886) |
+
+
+#### MC v1.17
+| Name | Link |
+| --- | :---: |
+| WorldEdit | [Click Me](https://www.curseforge.com/minecraft/mc-mods/worldedit/files/all?filter-game-version=1738749986%3a73242) |
+
 ## Bugfixes
 #### MC v1.16
 | Name | Link |
@@ -79,8 +104,39 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | --- | :---: |
 | MatterLink | [Link Me](https://www.curseforge.com/minecraft/mc-mods/matterlink/files/all?filter-game-version=2020709689%3A7499) |
 
+### Twitch
+#### MC v1.14?, v1.15?, v1.16?, and v1.17?
+| Name | Link |
+| --- | :---: |
+| Stream Participation (links bit donations to mcfunctions) | [Click Me](https://www.curseforge.com/minecraft/mc-mods/stream-participation/files/all?filter-game-version=2020709689%3A7499) |
 
-#### Commands/Chat
+## Claims/World Protection
+#### MC v1.14 (outdated)
+| Name | Link |
+| --- | :---: |
+| Sewing Machine Utilities | [Click Me](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities/files/all?filter-game-version=1738749986%3A64806) |
+
+
+#### MC v1.15 (outdated)
+| Name | Link |
+| --- | :---: |
+| Sewing Machine Utilities | [Click Me](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities/files/all?filter-game-version=1738749986%3a68722) |
+
+
+#### MC v1.16
+| Name | Link |
+| --- | :---: |
+| BineClaims | [Click Me](https://modrinth.com/mod/bineclaims/versions) |
+| Sewing Machine Utilities | [Click Me](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities/files/all?filter-game-version=1738749986%3a68722) |
+| Hey That's Mine | [Click Me](https://modrinth.com/mod/htm/versions) |
+
+
+#### MC v1.17
+| Name | Link |
+| --- | :---: |
+| Factions | [Click Me](https://modrinth.com/mod/factions/versions) |
+
+## Commands/Chat
 | Name | Link |
 | --- | :---: |
 | Pride | [Click Me](https://www.curseforge.com/minecraft/mc-mods/pride/files/all?filter-game-version=1738749986%3a64806) |
