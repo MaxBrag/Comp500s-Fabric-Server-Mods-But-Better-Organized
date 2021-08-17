@@ -55,4 +55,9 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | Lithium | https://modrinth.com/mod/lithium |
 | Overworld Two | https://www.curseforge.com/minecraft/mc-mods/overworld-two |
 | Phosphor | https://modrinth.com/mod/phosphor |
-
+| RandomPatches | https://modrinth.com/mod/randompatches |
+| RecipeCache | https://www.curseforge.com/minecraft/mc-mods/recipe-cache |
+| Starlight (experimental) | https://github.com/PaperMC/Starlight/releases |
+| Tic-TACS (experimental) | https://github.com/Gegy/tic-tacs/releases |
+| TickTools | https://modrinth.com/mod/ticktools |
+| World Specific View Distance | https://modrinth.com/mod/worldspecificviewdistance |
