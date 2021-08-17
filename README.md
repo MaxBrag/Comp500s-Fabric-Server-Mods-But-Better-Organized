@@ -5,38 +5,38 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 #### Chat Linking: Discord
 | Name | Link |
 | --- | :---: |
-| DatChat | https://www.curseforge.com/minecraft/mc-mods/datchat |
+| DatChat | [Click Me](https://www.curseforge.com/minecraft/mc-mods/datchat/files/all?filter-game-version=1738749986%3a64806) |
 
 #### Commands/Chat
 | Name | Link |
 | --- | :---: |
-| Pride | https://www.curseforge.com/minecraft/mc-mods/pride |
-| Simplechat | https://www.curseforge.com/minecraft/mc-mods/simplechat |
+| Pride | [Click Me](https://www.curseforge.com/minecraft/mc-mods/pride/files/all?filter-game-version=1738749986%3a64806) |
+| Simplechat | [Click Me](https://www.curseforge.com/minecraft/mc-mods/simplechat/files/all?filter-game-version=1738749986%3a64806) |
 
 #### Flight
 | Name | Link |
 | --- | :---: |
-| BeaconFlight | https://www.curseforge.com/minecraft/mc-mods/beaconflight |
+| BeaconFlight | [Click Me](https://www.curseforge.com/minecraft/mc-mods/beaconflight/files/all?filter-game-version=1738749986%3a64806) |
 
 #### Game Mechanic Tweak
 | Name | Link |
 | --- | :---: |
-| MaskOfLoki's Fabric Tweaks | [Click Me](https://www.curseforge.com/minecraft/mc-mods/maskoflokis-fabric-tweaks) |
+| MaskOfLoki's Fabric Tweaks | [Click Me](https://www.curseforge.com/minecraft/mc-mods/maskoflokis-fabric-tweaks/files/all?filter-game-version=1738749986%3a64806) |
 
 #### New Game Mechanic
 | Name | Link |
 | --- | :---: |
-| VanillaEndervators | [Click Me](https://www.curseforge.com/minecraft/mc-mods/vanillaendervators) |
+| VanillaEndervators | [Click Me](https://www.curseforge.com/minecraft/mc-mods/vanillaendervators/files/all?filter-game-version=1738749986%3a64806) |
 
 #### Server Management
 | Name | Link |
 | --- | :---: |
-| PathWatcher | [Click Me](https://www.curseforge.com/minecraft/mc-mods/pathwatcher) |
+| PathWatcher | [Click Me](https://www.curseforge.com/minecraft/mc-mods/pathwatcher/files/all?filter-game-version=1738749986%3a64806) |
 
 #### World Generation
 | Name | Link |
 | --- | :---: |
-| Smooth Bedrock (<=1.16.1) | [Click Me](https://www.curseforge.com/minecraft/mc-mods/blayykes-smooth-bedrock) |
+| Smooth Bedrock (<=1.16.1) | [Click Me](https://www.curseforge.com/minecraft/mc-mods/blayykes-smooth-bedrock/files/all?filter-game-version=1738749986%3a64806) |
 
 ## MC v1.16
 #### Bugfixes
