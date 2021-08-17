@@ -1,7 +1,7 @@
 # Comp500s-Fabric-Server-Mods-But-Better-Organized
 It's essentially listing the mods from https://github.com/comp500/fabric-serverside-mods in an organized matter of Minecraft versions.
 
-## MC v1.15.x (outdated)
+## MC v1.14 (outdated)
 #### Chat Linking: Discord
 | Name | Link |
 | --- | :---: |
@@ -21,24 +21,24 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 #### Game Mechanic Tweak
 | Name | Link |
 | --- | :---: |
-| MaskOfLoki's Fabric Tweaks | https://www.curseforge.com/minecraft/mc-mods/maskoflokis-fabric-tweaks |
+| MaskOfLoki's Fabric Tweaks | [Click Me](https://www.curseforge.com/minecraft/mc-mods/maskoflokis-fabric-tweaks) |
 
 #### New Game Mechanic
 | Name | Link |
 | --- | :---: |
-| VanillaEndervators | https://www.curseforge.com/minecraft/mc-mods/vanillaendervators |
+| VanillaEndervators | [Click Me](https://www.curseforge.com/minecraft/mc-mods/vanillaendervators) |
 
 #### Server Management
 | Name | Link |
 | --- | :---: |
-| PathWatcher | https://www.curseforge.com/minecraft/mc-mods/pathwatcher |
+| PathWatcher | [Click Me](https://www.curseforge.com/minecraft/mc-mods/pathwatcher) |
 
 #### World Generation
 | Name | Link |
 | --- | :---: |
-| Smooth Bedrock (<=1.16.1) | https://www.curseforge.com/minecraft/mc-mods/blayykes-smooth-bedrock |
+| Smooth Bedrock (<=1.16.1) | [Click Me](https://www.curseforge.com/minecraft/mc-mods/blayykes-smooth-bedrock) |
 
-## MC v1.16.x
+## MC v1.16
 #### Bugfixes
 | Name | Link |
 | --- | :---: |
