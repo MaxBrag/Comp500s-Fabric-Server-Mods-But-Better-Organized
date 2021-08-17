@@ -51,8 +51,8 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | --- | :---: |
 | Alternate Current (changes behaviour) | [Click Me](https://modrinth.com/mod/alternate-current) |
 | Carpet | [Click Me](https://www.curseforge.com/minecraft/mc-mods/carpet/files/all?filter-game-version=1738749986%3a70886) |
-| Custom Item Range Combination | https://modrinth.com/mod/custom-item-range-combination |
-| DimensionalThreading (experimental) | https://github.com/WearBlackAllDay/DimensionalThreading |
+| Custom Item Range Combination | [Click Me](https://modrinth.com/mod/custom-item-range-combination) |
+| DimensionalThreading (experimental) | [Click Me](https://github.com/WearBlackAllDay/DimensionalThreading) |
 | Fast Furnace For Fabric | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric/files/all?filter-game-version=1738749986%3a70886) |
 | FerriteCore | [Click Me](https://modrinth.com/mod/ferrite-core) |
 | Hydrogen (experimental) | [Click Me](https://modrinth.com/mod/hydrogen) |
