@@ -144,7 +144,38 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 #### MC v1.14 (outdated)
 | Name | Link |
 | --- | :---: |
-| Simple
+| Pride | [Click Me](https://www.curseforge.com/minecraft/mc-mods/pride/files/all?filter-game-version=1738749986%3a64806) |
+| MaskOfLoki's Fabric Tweaks | [Click Me](https://www.curseforge.com/minecraft/mc-mods/maskoflokis-fabric-tweaks/files/all?filter-game-version=1738749986%3a64806) |
+| SimpleChat. | [Click Me](https://www.curseforge.com/minecraft/mc-mods/simplechat/files/all?filter-game-version=1738749986%3a64806) |
+
+
+#### MC v1.16
+| Name | Link |
+| --- | :---: |
+| Armor Stand Editor | [Click Me](https://modrinth.com/mod/armorstandeditor/versions) |
+| capit_alists' gameplay commands | [Click Me](https://www.curseforge.com/minecraft/mc-mods/useful-commands/files/all?filter-game-version=1738749986%3a70886) |
+| Chat+ | [Click Me](https://www.curseforge.com/minecraft/mc-mods/chat/files/all?filter-game-version=1738749986%3a70886) |
+| Chat History | [Click Me](https://www.curseforge.com/minecraft/mc-mods/chat-history/files/all?filter-game-version=1738749986%3a70886) |
+| Command Aliases (Fabric) | [Click Me](https://www.curseforge.com/minecraft/mc-mods/commandaliases/files/all?filter-game-version=1738749986%3a70886) |
+| Command Alias Creator | [Click Me](https://www.curseforge.com/minecraft/mc-mods/command-alias-creator/files/all?filter-game-version=1738749986%3a70886) |
+| Connected (User needs to Compile it themselves) | [Click Me](https://github.com/CodersInABarrel/Connected/tree/main) |
+| Cyan | [Click Me](https://modrinth.com/mod/cyan/versions) |
+| DefaultSpawnPoints | [Click Me](https://modrinth.com/mod/defaultspawnpoints/versions) |
+| DisguiseLib | [Click Me](https://modrinth.com/mod/disguiselib/versions) |
+| Drogtor the Nickinator | [Click Me](https://www.curseforge.com/minecraft/mc-mods/drogtor/files/all?filter-game-version=1738749986%3a70886) |
+
+
+#### MC v1.17
+| Name | Link |
+| --- | :---: |
+| Armor Stand Editor | [Click Me](https://modrinth.com/mod/armorstandeditor/versions) |
+| Block Quantity Scanner (Snapshot) | [Click Me](https://modrinth.com/mod/block-quantity-scanner/versions) |
+| capit_alists' gameplay commands | [Click Me](https://www.curseforge.com/minecraft/mc-mods/useful-commands/files/all?filter-game-version=1738749986%3a73242) |
+| Chat+ | [Click Me](https://www.curseforge.com/minecraft/mc-mods/chat/files/all?filter-game-version=1738749986%3a73242) |
+| Command Aliases (Fabric) | [Click Me](https://www.curseforge.com/minecraft/mc-mods/commandaliases/files/all?filter-game-version=1738749986%3a73242) |
+| Cyan | [Click Me](https://modrinth.com/mod/cyan/versions) |
+| DisguiseLib | [Click Me](https://modrinth.com/mod/disguiselib/versions) |
+
 
 ## Commands/Chat
 | Name | Link |
