@@ -45,6 +45,9 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | Carpet | [Click Me](https://www.curseforge.com/minecraft/mc-mods/carpet/files/all?filter-game-version=1738749986%3a70886) |
 | Carpet Extra | [Click Me](https://www.curseforge.com/minecraft/mc-mods/carpet-extra/files/all?filter-game-version=1738749986%3a70886) |
 | Carpet TIS Addition | [Click Me](https://www.curseforge.com/minecraft/mc-mods/carpet-tis-addition/files/all?filter-game-version=1738749986%3a70886) |
+| Dimension Mutability (untested) | [Click Me](https://www.curseforge.com/minecraft/mc-mods/dimension-mutability/files/all?filter-game-version=1738749986%3a70886) |
+| Dimension Update Fixer | [Click Me](https://www.curseforge.com/minecraft/mc-mods/dimension-update-fixer/files/all?filter-game-version=1738749986%3a70886) |
+| Dispenser Portal Fix or DFASCF (fixed by 1.16.5) | (1st: [Click Me](https://modrinth.com/mod/dispenser-portal-fix), 2nd: [Click Me](https://github.com/alkyaly/DFASCF)) |
 
 #### Performance
 | Name | Link |
