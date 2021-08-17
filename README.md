@@ -49,7 +49,7 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | Fast Furnace For Fabric | https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric |
 | FerriteCore | https://modrinth.com/mod/ferrite-core |
 | Hydrogen (experimental) | https://modrinth.com/mod/hydrogen |
-| hopperOptimization ([(requires lithium fork)](https://github.com/2No2Name/lithium-fabric/releases/)) | https://github.com/2No2Name/hopperOptimizations |
+| hopperOptimization ([requires lithium fork](https://github.com/2No2Name/lithium-fabric/releases/)) | https://github.com/2No2Name/hopperOptimizations |
 | Krypton | https://modrinth.com/mod/krypton |
 | LazyDFU | https://modrinth.com/mod/lazydfu |
 | Lithium | https://modrinth.com/mod/lithium |
