@@ -141,6 +141,7 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | Leukocyte | [Click Me](https://github.com/NucleoidMC/leukocyte/releases) |
 
 ## Commands/Chat
+### Commands/Chat
 #### MC v1.14 (outdated)
 | Name | Link |
 | --- | :---: |
@@ -148,6 +149,7 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | MaskOfLoki's Fabric Tweaks | [Click Me](https://www.curseforge.com/minecraft/mc-mods/maskoflokis-fabric-tweaks/files/all?filter-game-version=1738749986%3a64806) |
 | SimpleChat. | [Click Me](https://www.curseforge.com/minecraft/mc-mods/simplechat/files/all?filter-game-version=1738749986%3a64806) |
 | Handy Structures | [Click Me](https://www.curseforge.com/minecraft/mc-mods/handy-structures/files/all?filter-game-version=1738749986%3a64806) |
+| Sewing Machine Utilities | [Click Me](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities/files/all?filter-game-version=1738749986%3A64806) |
 
 
 #### MC v1.15 (outdated)
@@ -155,6 +157,11 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | --- | :---: |
 | Impersonate | [Click Me](https://www.curseforge.com/minecraft/mc-mods/impersonate/files/all?filter-game-version=1738749986%3a68722) |
 | ItemFlexer | [Click Me](https://www.curseforge.com/minecraft/mc-mods/itemflexer/files/all?filter-game-version=1738749986%3a68722) |
+| Rich Chat? (it says 1.15.2) | [Click Me](https://github.com/Ashley1227/rich-chat/releases) |
+| SetPlayerData | [Click Me](https://www.curseforge.com/minecraft/mc-mods/setplayerdata/files/all?filter-game-version=1738749986%3a68722) |
+| Sewing Machine Utilities | [Click Me](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities/files/all?filter-game-version=1738749986%3a68722) |
+| Text Coloriser Plugin | [Click Me](https://www.curseforge.com/minecraft/mc-mods/text-coloriser-plugin/files/all?filter-game-version=1738749986%3a68722) |
+| Walaryne's Fly Mod | [Click Me](https://www.curseforge.com/minecraft/mc-mods/walarynes-flymod/files/all?filter-game-version=1738749986%3A68722) |
 
 
 #### MC v1.16
@@ -185,6 +192,27 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | Image2Map | [Click Me](https://www.curseforge.com/minecraft/mc-mods/image2map/files/all?filter-game-version=1738749986%3a70886) |
 | Impersonate | [Click Me](https://www.curseforge.com/minecraft/mc-mods/impersonate/files/all?filter-game-version=1738749986%3a70886) |
 | ItemFlexer | [Click Me](https://www.curseforge.com/minecraft/mc-mods/itemflexer/files/all?filter-game-version=1738749986%3a70886) |
+| MobDisguises | [Click Me](https://modrinth.com/mod/mobdisguises/versions) |
+| Mod Info Command | [Click Me](https://modrinth.com/mod/mod-info-cmd/versions) |
+| Mods Command | [Click Me](https://modrinth.com/mod/mods-command/versions) |
+| More Commands Mod | [Click Me](https://www.curseforge.com/minecraft/mc-mods/morecmds/files/all?filter-game-version=1738749986%3a70886) |
+| Personal Spaces | [Click Me](https://modrinth.com/mod/personal-spaces/versions) |
+| Pingspam | [Click Me](https://modrinth.com/mod/pingspam/versions) |
+| Player Roles (Fabric) | [Click Me](https://www.curseforge.com/minecraft/mc-mods/player-roles-fabric/files/all?filter-game-version=1738749986%3a70886) |
+| Rich Chat (User might have to compile, probably) | [Click Me](https://github.com/Ashley1227/rich-chat) |
+| Roll | [Click Me](https://www.curseforge.com/minecraft/mc-mods/roll-fabric/files/all?filter-game-version=1738749986%3a70886) |
+| SimpleChat | [Click Me](https://modrinth.com/mod/simplechat/versions) |
+| Simplehat | [Click Me](https://github.com/PotatoPresident/simplehat/releases) |
+| SetPlayerData | [Click Me](https://www.curseforge.com/minecraft/mc-mods/setplayerdata/files/all?filter-game-version=1738749986%3a70886) |
+| Sewing Machine Utilities | [Click Me](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities/files/all?filter-game-version=1738749986%3a68722) |
+| Slapmap | [Click Me](https://www.curseforge.com/minecraft/mc-mods/slapmap/files/all?filter-game-version=1738749986%3a70886) |
+| TabTPS | [Click Me](https://modrinth.com/mod/tabtps/versions) |
+| Tagboard | [Click Me](https://www.curseforge.com/minecraft/mc-mods/tagboard/files/all?filter-game-version=1738749986%3a70886) |
+| Text Coloriser Plugin (Snapshots available) | [Click Me](https://www.curseforge.com/minecraft/mc-mods/text-coloriser-plugin/files/all?filter-game-version=1738749986%3A70886) |
+| Vanish | [Click Me](https://www.curseforge.com/minecraft/mc-mods/vanish/files/all?filter-game-version=1738749986%3A70886) |
+| Walaryne's Fly Mod | [Click Me](https://www.curseforge.com/minecraft/mc-mods/walarynes-flymod/files/all?filter-game-version=1738749986%3a70886) |
+| Whose pet is this? | [Click Me](https://www.curseforge.com/minecraft/mc-mods/whose-pet-is-this/files/all?filter-game-version=1738749986%3a70886) |
+| Wires | [Click Me](https://www.curseforge.com/minecraft/mc-mods/wires/files/all?filter-game-version=1738749986%3a70886) |
 
 
 #### MC v1.17
@@ -206,13 +234,82 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | Image2Map | [Click Me](https://www.curseforge.com/minecraft/mc-mods/image2map/files/all?filter-game-version=1738749986%3A73242) |
 | Impersonate | [Click Me](https://www.curseforge.com/minecraft/mc-mods/impersonate/files/all?filter-game-version=1738749986%3a73242) |
 | ItemFlexer | [Click Me](https://www.curseforge.com/minecraft/mc-mods/itemflexer/files/all?filter-game-version=1738749986%3a73242) |
+| Mods Command (Snapshots also available) | [Click Me](https://modrinth.com/mod/mods-command/versions) |
+| Pingspam | [Click Me](https://modrinth.com/mod/pingspam/versions) |
+| Player Pronouns | [Click Me](https://modrinth.com/mod/player-pronouns/versions) |
+| Player Roles (Fabric) | [Click Me](https://www.curseforge.com/minecraft/mc-mods/player-roles-fabric/files/all?filter-game-version=1738749986%3A73242) |
+| SimpleChat | [Click Me](https://modrinth.com/mod/simplechat/versions) |
+| SimpleHomes | [Click Me](https://modrinth.com/mod/simplehomes/versions) |
+| Styled Chat | [Click Me](https://modrinth.com/mod/styled-chat/versions) |
+| TabTPS | [Click Me](https://modrinth.com/mod/tabtps/versions) |
+| Vanish | [Click Me](https://www.curseforge.com/minecraft/mc-mods/vanish/files/all?filter-game-version=1738749986%3A73242) |
+| Whose pet is this? | [Click Me](https://www.curseforge.com/minecraft/mc-mods/whose-pet-is-this/files/all?filter-game-version=1738749986%3a73242) |
+| Wires | [Click Me](https://www.curseforge.com/minecraft/mc-mods/wires/files/all?filter-game-version=1738749986%3A73242) |
 
 
-## Commands/Chat
+### Join Messages/Message of the Day
+#### MC v1.14 (outdated)
 | Name | Link |
 | --- | :---: |
-| Pride | [Click Me](https://www.curseforge.com/minecraft/mc-mods/pride/files/all?filter-game-version=1738749986%3a64806) |
-| Simplechat | [Click Me](https://www.curseforge.com/minecraft/mc-mods/simplechat/files/all?filter-game-version=1738749986%3a64806) |
+| EasyMOTD | [Click Me](https://www.curseforge.com/minecraft/mc-mods/easymotd/files/all?filter-game-version=1738749986%3a64806) |
+
+
+#### MC v1.15 (outdated)
+| Name | Link |
+| --- | :---: |
+| EasyMOTD | [Click Me](https://www.curseforge.com/minecraft/mc-mods/easymotd/files/all?filter-game-version=1738749986%3a68722) |
+
+
+#### MC v1.16
+| Name | Link |
+| --- | :---: |
+| CustomJoinMessagesFabric | [Click Me](https://www.curseforge.com/minecraft/mc-mods/customjoinmessagesfabric/files/all?filter-game-version=1738749986%3a70886) |
+| DisableJoinLeaveMessage | [Click Me](https://github.com/voruti/DisableJoinLeaveMessage/releases) |
+| Player Events | [Click Me](https://modrinth.com/mod/player-events/versions) |
+
+
+#### MC v1.17
+| Name | Link |
+| --- | :---: |
+| Player Events | [Click Me](https://modrinth.com/mod/player-events/versions) |
+
+
+### Teleportation/Homes
+#### MC v1.14 (outdated)
+| Name | Link |
+| --- | :---: |
+| Random Teleport | [Click Me](https://www.curseforge.com/minecraft/mc-mods/random-teleport/files/all?filter-game-version=1738749986%3a64806) |
+| Sewing Machine Utilities | [Click Me](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities/files/all?filter-game-version=1738749986%3A64806) |
+
+
+#### MC v1.15 (outdated)
+| Name | Link |
+| --- | :---: |
+| Random Teleport | [Click Me](https://www.curseforge.com/minecraft/mc-mods/random-teleport/files/all?filter-game-version=1738749986%3a68722) |
+| Sewing Machine Utilities | [Click Me](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities/files/all?filter-game-version=1738749986%3a68722) |
+
+
+#### MC v1.16
+| Name | Link |
+| --- | :---: |
+| FabricHomes | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fabrichomes/files/all?filter-game-version=1738749986%3a70886) |
+| FabricTPA | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fabrictpa/files/all?filter-game-version=1738749986%3a70886) |
+| FabricWarps | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fabricwarps/files/all?filter-game-version=1738749986%3a70886) |
+| FabriKommander | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fabrikommander/files/all?filter-game-version=1738749986%3a70886) |
+| Random Teleport (Snapshot only?) | [Click Me](https://www.curseforge.com/minecraft/mc-mods/random-teleport/files/all?filter-game-version=1738749986%3a70886) |
+| Sewing Machine Utilities | [Click Me](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities/files/all?filter-game-version=1738749986%3a68722) |
+| The Warp Mod | [Click Me](https://www.curseforge.com/minecraft/mc-mods/the-warp-mod-fabric/files/all?filter-game-version=1738749986%3a70886) |
+
+
+#### MC v1.17
+| Name | Link |
+| --- | :---: |
+| CyanSetHome (alpha) | [Click Me](https://modrinth.com/mod/cyansethome/versions) |
+| FabricHomes | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fabrichomes/files/all?filter-game-version=1738749986%3a73242) |
+| FabricTPA | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fabrictpa/files/all?filter-game-version=1738749986%3A73242) |
+| FabricWarps | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fabricwarps/files/all?filter-game-version=1738749986%3A73242) |
+| FabriKommander | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fabrikommander/files/all?filter-game-version=1738749986%3A73242) |
+| The Warp Mod | [Click Me](https://www.curseforge.com/minecraft/mc-mods/the-warp-mod-fabric/files/all?filter-game-version=1738749986%3a73242) |
 
 #### Flight
 | Name | Link |
