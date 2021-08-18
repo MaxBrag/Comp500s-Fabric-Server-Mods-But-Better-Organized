@@ -394,22 +394,42 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 #### MC v1.14 (outdated)
 | Name | Link |
 | --- | :---: |
+| Game Start | [Click Me](https://www.curseforge.com/minecraft/mc-mods/game-start/files/all?filter-game-version=1738749986%3a64806) |
 
 
 #### MC v1.15 (outdated)
 | Name | Link |
 | --- | :---: |
+| Inventory Sorting (Snapshot available) | [Click Me](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting/files/all?filter-game-version=1738749986%3a68722) |
+| keepinventory-command | [Click Me](https://www.curseforge.com/minecraft/mc-mods/keepinventory-command/files/all?filter-game-version=1738749986%3a68722) |
+| Lootstrap | [Click Me](https://www.curseforge.com/minecraft/mc-mods/lootstrap/files/all?filter-game-version=1738749986%3a68722) |
+| SimpleServerSorter | [Click Me](https://www.curseforge.com/minecraft/mc-mods/simpleserversorter/files/all?filter-game-version=1738749986%3a68722) |
 
 
 #### MC v1.16
 | Name | Link |
 | --- | :---: |
 | Configured Keep Inventory | [Click Me](https://www.curseforge.com/minecraft/mc-mods/configured-keep-inventory/files/all?filter-game-version=1738749986%3a70886) |
+| Game Start | [Click Me](https://www.curseforge.com/minecraft/mc-mods/game-start/files/all?filter-game-version=1738749986%3A70886) |
+| GVault | [Click Me](https://modrinth.com/mod/gvault/versions) |
+| Inventory Sorting (snapshot available) | [Click Me](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting/files/all?filter-game-version=1738749986%3A70886) |
+| InvSync | [Click Me](https://modrinth.com/mod/invsync/versions) |
+| Inv View | [Click Me](https://www.curseforge.com/minecraft/mc-mods/inv-view/files/all?filter-game-version=1738749986%3a70886) |
+| keepinventory-command (snapshot available) | [Click Me](https://www.curseforge.com/minecraft/mc-mods/keepinventory-command/files/all?filter-game-version=1738749986%3A70886) |
+| Lootstrap | [Click Me](https://www.curseforge.com/minecraft/mc-mods/lootstrap/files/all?filter-game-version=1738749986%3A70886) |
+| SimpleServerSorter | [Click Me](https://www.curseforge.com/minecraft/mc-mods/simpleserversorter/files/all?filter-game-version=1738749986%3A70886) |
+| Starting Notes (snapshot available) | [Click Me](https://www.curseforge.com/minecraft/mc-mods/starting-notes/files/all?filter-game-version=1738749986%3a70886) |
 
 
 #### MC v1.17
 | Name | Link |
 | --- | :---: |
+| Inventory Sorting | [Click Me](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting/files/all?filter-game-version=1738749986%3A73242) |
+| InvSync | [Click Me](https://modrinth.com/mod/invsync/versions) |
+| Inv View | [Click Me](https://www.curseforge.com/minecraft/mc-mods/inv-view/files/all?filter-game-version=1738749986%3A73242) |
+| Kits | [Click Me](https://modrinth.com/mod/kits/versions) |
+| Lootstrap | [Click Me](https://www.curseforge.com/minecraft/mc-mods/lootstrap/files/all?filter-game-version=1738749986%3A73242) |
+
 
 #### Flight
 | Name | Link |
