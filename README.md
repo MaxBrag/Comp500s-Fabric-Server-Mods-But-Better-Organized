@@ -147,6 +147,14 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | Pride | [Click Me](https://www.curseforge.com/minecraft/mc-mods/pride/files/all?filter-game-version=1738749986%3a64806) |
 | MaskOfLoki's Fabric Tweaks | [Click Me](https://www.curseforge.com/minecraft/mc-mods/maskoflokis-fabric-tweaks/files/all?filter-game-version=1738749986%3a64806) |
 | SimpleChat. | [Click Me](https://www.curseforge.com/minecraft/mc-mods/simplechat/files/all?filter-game-version=1738749986%3a64806) |
+| Handy Structures | [Click Me](https://www.curseforge.com/minecraft/mc-mods/handy-structures/files/all?filter-game-version=1738749986%3a64806) |
+
+
+#### MC v1.15 (outdated)
+| Name | Link |
+| --- | :---: |
+| Impersonate | [Click Me](https://www.curseforge.com/minecraft/mc-mods/impersonate/files/all?filter-game-version=1738749986%3a68722) |
+| ItemFlexer | [Click Me](https://www.curseforge.com/minecraft/mc-mods/itemflexer/files/all?filter-game-version=1738749986%3a68722) |
 
 
 #### MC v1.16
@@ -163,6 +171,20 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | DefaultSpawnPoints | [Click Me](https://modrinth.com/mod/defaultspawnpoints/versions) |
 | DisguiseLib | [Click Me](https://modrinth.com/mod/disguiselib/versions) |
 | Drogtor the Nickinator | [Click Me](https://www.curseforge.com/minecraft/mc-mods/drogtor/files/all?filter-game-version=1738749986%3a70886) |
+| EqualNBT | [Click Me](https://modrinth.com/mod/equalnbt/versions) |
+| Essential-Commands | [Click Me](https://github.com/John-Paul-R/Essential-Commands/releases) |
+| Fabrication | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fabrication/files/all?filter-game-version=1738749986%3a70886) |
+| FabricTailor | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fabrictailor/files/all?filter-game-version=1738749986%3a70886) |
+| Fabric Death Messages | [Click Me](https://modrinth.com/mod/death-messages/versions) |
+| Gestus | [Click Me](https://www.curseforge.com/minecraft/mc-mods/gestus/files/all?filter-game-version=1738749986%3a70886) |
+| GlobalSpawn | [Click Me](https://www.curseforge.com/minecraft/mc-mods/globalspawn/files/all?filter-game-version=1738749986%3a70886) |
+| GraphiX | [Click Me](https://modrinth.com/mod/graphix/versions) |
+| Handy Structures | [Click Me](https://www.curseforge.com/minecraft/mc-mods/handy-structures/files/all?filter-game-version=1738749986%3a70886) |
+| Head Index | [Click Me](https://modrinth.com/mod/headindex/versions) |
+| Hewo | [Click Me](https://www.curseforge.com/minecraft/mc-mods/hewo/files/all?filter-game-version=1738749986%3a70886) |
+| Image2Map | [Click Me](https://www.curseforge.com/minecraft/mc-mods/image2map/files/all?filter-game-version=1738749986%3a70886) |
+| Impersonate | [Click Me](https://www.curseforge.com/minecraft/mc-mods/impersonate/files/all?filter-game-version=1738749986%3a70886) |
+| ItemFlexer | [Click Me](https://www.curseforge.com/minecraft/mc-mods/itemflexer/files/all?filter-game-version=1738749986%3a70886) |
 
 
 #### MC v1.17
@@ -175,6 +197,15 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | Command Aliases (Fabric) | [Click Me](https://www.curseforge.com/minecraft/mc-mods/commandaliases/files/all?filter-game-version=1738749986%3a73242) |
 | Cyan | [Click Me](https://modrinth.com/mod/cyan/versions) |
 | DisguiseLib | [Click Me](https://modrinth.com/mod/disguiselib/versions) |
+| Essential-Commands | [Click Me](https://github.com/John-Paul-R/Essential-Commands/releases) |
+| Extension | [Click Me](https://modrinth.com/mod/ext/versions) |
+| Fabrication (alpha) | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fabrication/files/all?filter-game-version=1738749986%3a73242) |
+| FabricTailor | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fabrictailor/files/all?filter-game-version=1738749986%3A73242) |
+| GlobalSpawn | [Click Me](https://www.curseforge.com/minecraft/mc-mods/globalspawn/files/all?filter-game-version=1738749986%3a73242) |
+| Head Index | [Click Me](https://modrinth.com/mod/headindex/versions) |
+| Image2Map | [Click Me](https://www.curseforge.com/minecraft/mc-mods/image2map/files/all?filter-game-version=1738749986%3A73242) |
+| Impersonate | [Click Me](https://www.curseforge.com/minecraft/mc-mods/impersonate/files/all?filter-game-version=1738749986%3a73242) |
+| ItemFlexer | [Click Me](https://www.curseforge.com/minecraft/mc-mods/itemflexer/files/all?filter-game-version=1738749986%3a73242) |
 
 
 ## Commands/Chat
