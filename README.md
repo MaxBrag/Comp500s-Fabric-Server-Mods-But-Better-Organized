@@ -63,7 +63,7 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 
 
 ## Chat Linking
-### Discord
+### Chat Linking: Discord
 #### MC v1.14 (outdated)
 | Name | Link |
 | --- | :---: |
@@ -98,13 +98,13 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | Fabric-Discord Link | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fabric-discord-link/files/all?filter-game-version=1738749986%3a70886) |
 | ModFest Utilities | [Click Me](https://github.com/ModFest/modfest-utilities/releases) |
 
-### Matterbridge
+### Chat Linking: Matterbridge
 #### MC v1.14? (outdated)
 | Name | Link |
 | --- | :---: |
 | MatterLink | [Link Me](https://www.curseforge.com/minecraft/mc-mods/matterlink/files/all?filter-game-version=2020709689%3A7499) |
 
-### Twitch
+### Chat Linking: Twitch
 #### MC v1.14?, v1.15?, v1.16?, and v1.17?
 | Name | Link |
 | --- | :---: |
@@ -141,7 +141,6 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | Leukocyte | [Click Me](https://github.com/NucleoidMC/leukocyte/releases) |
 
 ## Commands/Chat
-### Commands/Chat
 #### MC v1.14 (outdated)
 | Name | Link |
 | --- | :---: |
@@ -247,7 +246,7 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | Wires | [Click Me](https://www.curseforge.com/minecraft/mc-mods/wires/files/all?filter-game-version=1738749986%3A73242) |
 
 
-### Join Messages/Message of the Day
+### Commands/Chat: Join Messages/Message of the Day
 #### MC v1.14 (outdated)
 | Name | Link |
 | --- | :---: |
@@ -274,7 +273,7 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | Player Events | [Click Me](https://modrinth.com/mod/player-events/versions) |
 
 
-### Teleportation/Homes
+### Commands/Chat: Teleportation/Homes
 #### MC v1.14 (outdated)
 | Name | Link |
 | --- | :---: |
@@ -310,6 +309,28 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | FabricWarps | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fabricwarps/files/all?filter-game-version=1738749986%3A73242) |
 | FabriKommander | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fabrikommander/files/all?filter-game-version=1738749986%3A73242) |
 | The Warp Mod | [Click Me](https://www.curseforge.com/minecraft/mc-mods/the-warp-mod-fabric/files/all?filter-game-version=1738749986%3a73242) |
+
+
+## Cursed
+#### MC v1.15 (outdated)
+| Name | Link |
+| --- | :---: |
+| Dihydrogen Monoxide Reloaded | [Click Me](https://www.curseforge.com/minecraft/mc-mods/dihydrogen-monoxide-reloaded/files/all?filter-game-version=1738749986%3A68722) |
+
+#### MC v1.16
+| Name | Link |
+| --- | :---: |
+| Bedrock Breaking | [Click Me](https://modrinth.com/mod/bedrockbreaking/versions) |
+| Dihydrogen Monoxide Reloaded | [Click Me](https://www.curseforge.com/minecraft/mc-mods/dihydrogen-monoxide-reloaded/files/all?filter-game-version=1738749986%3A70886) |
+| PacketIgnore | [Click Me](https://modrinth.com/mod/packetignore/versions) |
+| Volatile Entity Cramming (Snapshots and Pre-versions included) | [Click Me](https://modrinth.com/mod/volatile-entity-cramming/versions) |
+
+
+##### MC v1.17
+| Name | Link |
+| --- | :---: |
+| Dihydrogen Monoxide Reloaded | [Click Me](https://www.curseforge.com/minecraft/mc-mods/dihydrogen-monoxide-reloaded/files/all?filter-game-version=1738749986%3A73242) |
+
 
 #### Flight
 | Name | Link |
