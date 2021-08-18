@@ -128,7 +128,7 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | --- | :---: |
 | BineClaims | [Click Me](https://modrinth.com/mod/bineclaims/versions) |
 | Flan | [Click Me](https://www.curseforge.com/minecraft/mc-mods/flan/files/all?filter-game-version=1738749986%3a70886) |
-| Sewing Machine Utilities | [Click Me](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities/files/all?filter-game-version=1738749986%3a68722) |
+| Sewing Machine Utilities | [Click Me](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities/files/all?filter-game-version=1738749986%3a70886) |
 | Hey That's Mine | [Click Me](https://modrinth.com/mod/htm/versions) |
 | Leukocyte | [Click Me](https://github.com/NucleoidMC/leukocyte/releases) |
 
@@ -203,7 +203,7 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | SimpleChat | [Click Me](https://modrinth.com/mod/simplechat/versions) |
 | Simplehat | [Click Me](https://github.com/PotatoPresident/simplehat/releases) |
 | SetPlayerData | [Click Me](https://www.curseforge.com/minecraft/mc-mods/setplayerdata/files/all?filter-game-version=1738749986%3a70886) |
-| Sewing Machine Utilities | [Click Me](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities/files/all?filter-game-version=1738749986%3a68722) |
+| Sewing Machine Utilities | [Click Me](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities/files/all?filter-game-version=1738749986%3a70886) |
 | Slapmap | [Click Me](https://www.curseforge.com/minecraft/mc-mods/slapmap/files/all?filter-game-version=1738749986%3a70886) |
 | TabTPS | [Click Me](https://modrinth.com/mod/tabtps/versions) |
 | Tagboard | [Click Me](https://www.curseforge.com/minecraft/mc-mods/tagboard/files/all?filter-game-version=1738749986%3a70886) |
@@ -296,7 +296,7 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | FabricWarps | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fabricwarps/files/all?filter-game-version=1738749986%3a70886) |
 | FabriKommander | [Click Me](https://www.curseforge.com/minecraft/mc-mods/fabrikommander/files/all?filter-game-version=1738749986%3a70886) |
 | Random Teleport (Snapshot only?) | [Click Me](https://www.curseforge.com/minecraft/mc-mods/random-teleport/files/all?filter-game-version=1738749986%3a70886) |
-| Sewing Machine Utilities | [Click Me](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities/files/all?filter-game-version=1738749986%3a68722) |
+| Sewing Machine Utilities | [Click Me](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities/files/all?filter-game-version=1738749986%3a70886) |
 | The Warp Mod | [Click Me](https://www.curseforge.com/minecraft/mc-mods/the-warp-mod-fabric/files/all?filter-game-version=1738749986%3a70886) |
 
 
@@ -331,6 +331,85 @@ It's essentially listing the mods from https://github.com/comp500/fabric-servers
 | --- | :---: |
 | Dihydrogen Monoxide Reloaded | [Click Me](https://www.curseforge.com/minecraft/mc-mods/dihydrogen-monoxide-reloaded/files/all?filter-game-version=1738749986%3A73242) |
 
+## Economy/Shops
+#### MC v1.14 (outdated)
+| Name | Link |
+| --- | :---: |
+| Grand Economy | [Click Me](https://www.curseforge.com/minecraft/mc-mods/grand-economy/files/all?filter-game-version=1738749986%3A64806) |
+| Sewing Machine Utilities | [Click Me](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities/files/all?filter-game-version=1738749986%3A64806) |
+
+
+#### MC v1.15 (outdated)
+| Name | Link |
+| --- | :---: |
+| Grand Economy | [Click Me](https://www.curseforge.com/minecraft/mc-mods/grand-economy/files/all?filter-game-version=1738749986%3A68722) |
+| Sewing Machine Utilities | [Click Me](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities/files/all?filter-game-version=1738749986%3a68722) |
+
+
+#### MC v1.16
+| Name | Link |
+| --- | :---: |
+| Grand Economy | [Click Me](https://www.curseforge.com/minecraft/mc-mods/grand-economy/files/all?filter-game-version=1738749986%3A70886) |
+| GShop | [Click Me](https://modrinth.com/mod/gshop/versions) |
+| Sewing Machine Utilities | [Click Me](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities/files/all?filter-game-version=1738749986%3a70886) |
+
+
+#### MC v1.17
+| Name | Link |
+| --- | :---: |
+| Grand Economy | [Click Me](https://www.curseforge.com/minecraft/mc-mods/grand-economy/files/all?filter-game-version=1738749986%3A73242) |
+
+
+## Gamemodes/Minigames
+#### Unknown Versions
+| Name | Link |
+| --- | :---: |
+| NucleoidMC | [Click Me](https://github.com/NucleoidMC) |
+
+#### MC v1.15 (outdated)
+| Name | Link |
+| --- | :---: |
+| BattleMod: Fabric (Discontinued) | [Click Me](https://www.curseforge.com/minecraft/mc-mods/battlemod-fabric/files/all?filter-game-version=1738749986%3a68722) |
+
+
+#### MC v1.16
+| Name | Link |
+| --- | :---: |
+| Fabric Observer Gamemode | [Click Me](https://github.com/aws404/Fabric-ObserverMode/releases) |
+| Manhunt: Fabric | [Click Me](https://www.curseforge.com/minecraft/mc-mods/manhunt-fabric/files/all?filter-game-version=1738749986%3a70886) |
+| Solar Apocalypse: Refabricated | [Click Me](https://www.curseforge.com/minecraft/mc-mods/solar-apocalypse-refabricated/files/all?filter-game-version=1738749986%3a70886) |
+| (ThirdLife) SoulSplit | [Click Me](https://www.curseforge.com/minecraft/mc-mods/thirdlife-soulsplit/files/all?filter-game-version=1738749986%3a70886) |
+
+
+#### MC v1.17
+| Name | Link |
+| --- | :---: |
+| Factions | [Click Me](https://modrinth.com/mod/factions/versions) |
+| Manhunt: Fabric | [Click Me](https://www.curseforge.com/minecraft/mc-mods/manhunt-fabric/files/all?filter-game-version=1738749986%3a73242) |
+| Solar Apocalypse: Refabricated | [Click Me](https://www.curseforge.com/minecraft/mc-mods/solar-apocalypse-refabricated/files/all?filter-game-version=1738749986%3A73242) |
+| (ThirdLife) SoulSplit (alpha) | [Click Me](https://www.curseforge.com/minecraft/mc-mods/thirdlife-soulsplit/files/all?filter-game-version=1738749986%3A73242) |
+
+
+## Inventory
+#### MC v1.14 (outdated)
+| Name | Link |
+| --- | :---: |
+
+
+#### MC v1.15 (outdated)
+| Name | Link |
+| --- | :---: |
+
+
+#### MC v1.16
+| Name | Link |
+| --- | :---: |
+| Configured Keep Inventory | [Click Me](https://www.curseforge.com/minecraft/mc-mods/configured-keep-inventory/files/all?filter-game-version=1738749986%3a70886) |
+
+
+#### MC v1.17
+| Name | Link |
+| --- | :---: |
 
 #### Flight
 | Name | Link |
